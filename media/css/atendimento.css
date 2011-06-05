@@ -1,0 +1,41 @@
+.inline-group{
+    width:380px;
+    float:left;
+    margin-right:5px;
+    margin-top:0px;
+}
+/*.selector{*/
+/*    width: 450px;*/
+/*}*/
+/*.selector-available, .selector-chosen{*/
+/*    width: 180px;*/
+/*}*/
+/*.selector select {*/
+/*    width: 180px;*/
+/*    height: 14.2em;*/
+/*}*/
+/*.selector-chosen select {*/
+/*    height: 13.3em;*/
+/*}*/
+/*.selector .selector-available input {*/
+/*    width: 140px;*/
+/*}*/
+/*.module{*/
+/*    width:1040px;*/
+/*}*/
+/*.form-row .help {*/
+/*    margin-left: 0px !important;*/
+/*    padding-left: 0px !important;*/
+/*}*/
+.submit-row{
+    width:1140px;
+    display:block
+}
+.animal label{
+    font-weight:bold !important;
+    color:#333 !important;
+}
+#itemvenda_set-group .animal label{
+    font-weight:normal !important;
+    color:#666 !important;
+}
